@@ -1,11 +1,11 @@
 [
   {
-    "name": "Placeholder level 1",
-    "creator": "9mm",
-    "id": 1,
-    "image": "",
+    "name": "sosiski",
+    "creator": "craw",
+    "id": 30,
+    "image": "images/1111.jpg",
     "players": [
-      { "name": "No one", "progress": "0%" }
+      { "name": "9mm", "progress": "21%" }
     ]
   }
 ]
