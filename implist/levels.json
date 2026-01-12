@@ -5,7 +5,7 @@
     "id": 28,
     "image": "images/3.jpg",
     "players": [
-      {}
+      { "name": "No one", "progress": "0%" }
     ]
   },
   {
@@ -14,7 +14,7 @@
     "id": 23,
     "image": "images/5.png",
     "players": [
-      {}
+      { "name": "No one", "progress": "0%" }
     ]
   },
   {
