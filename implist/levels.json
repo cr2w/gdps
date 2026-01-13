@@ -23,7 +23,7 @@
     "id": 31,
     "image": "images/2.png",
     "players": [
-      { "name": "9mm", "progress": "26%" },
+      { "name": "9mm", "progress": "63%" },
       { "name": "craw", "progress": "10%" }
     ]
   },
