@@ -1,29 +1,29 @@
 [
   {
     "name": "cgtrc buff top 1",
-    "creator": "craw (buff by 9mm)",
+    "creator": "craw (buff by 42gg)",
     "id": 38,
     "image": "images/67TUFTUF.png",
     "players": [
-      { "name": "9mm", "progress": "100%" }
+      { "name": "42gg", "progress": "100%" }
     ]
   },
   {
     "name": "what",
-    "creator": "9mm",
+    "creator": "42gg",
     "id": 34,
     "image": "images/what.png",
     "players": [
-      { "name": "9mm", "progress": "100%" }
+      { "name": "42gg", "progress": "100%" }
     ]
   },
   {
     "name": "Sustainable",
-    "creator": "9mm",
+    "creator": "42gg",
     "id": 24,
     "image": "images/1.png",
     "players": [
-      { "name": "9mm", "progress": "100%" }
+      { "name": "42gg", "progress": "100%" }
     ]
   },
   {
@@ -32,7 +32,7 @@
     "id": 29,
     "image": "images/5.png",
     "players": [
-      { "name": "9mm", "progress": "100%" }
+      { "name": "42gg", "progress": "100%" }
     ]
   },
   {
@@ -41,7 +41,7 @@
     "id": 14,
     "image": "images/4.png",
     "players": [
-      { "name": "9mm", "progress": "100%" }
+      { "name": "42gg", "progress": "100%" }
     ]
   },
   {
@@ -60,7 +60,7 @@
     "image": "images/3.png",
     "players": [
       { "name": "123", "progress": "100%" },
-      { "name": "9mm", "progress": "100%" },
+      { "name": "42gg", "progress": "100%" },
       { "name": "craw", "progress": "100%" }
     ]
   }
