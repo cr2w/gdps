@@ -19,11 +19,11 @@
   },
   {
     "name": "bs",
-    "creator": "9mm",
+    "creator": "42gg",
     "id": 31,
     "image": "images/2.png",
     "players": [
-      { "name": "9mm", "progress": "63%" },
+      { "name": "42gg", "progress": "63%" },
       { "name": "craw", "progress": "10%" }
     ]
   },
@@ -33,7 +33,7 @@
     "id": 30,
     "image": "images/1111.jpg",
     "players": [
-      { "name": "9mm", "progress": "21%" }
+      { "name": "42gg", "progress": "21%" }
     ]
   }
 ]
