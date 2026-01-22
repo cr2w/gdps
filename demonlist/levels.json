@@ -1,5 +1,14 @@
 [
   {
+    "name": "cgtrc buff top 1",
+    "creator": "craw (buff by 9mm)",
+    "id": 38,
+    "image": "images/67TUFTUF.png",
+    "players": [
+      { "name": "9mm", "progress": "100%" }
+    ]
+  },
+  {
     "name": "what",
     "creator": "9mm",
     "id": 34,
