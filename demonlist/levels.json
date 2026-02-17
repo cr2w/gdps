@@ -1,94 +1,67 @@
 [
-    {
-        "name": "cgtrc buff top 1",
-        "creator": "craw (buff by 42gg)",
-        "id": "38",
-        "image": "",
-        "players": [
-            {
-                "name": "42gg",
-                "progress": "100%"
-            }
-        ]
-    },
-    {
-        "name": "what",
-        "creator": "42gg",
-        "id": "34",
-        "image": "",
-        "players": [
-            {
-                "name": "42gg",
-                "progress": "100%"
-            }
-        ]
-    },
-    {
-        "name": "Sustainable",
-        "creator": "42gg",
-        "id": "24",
-        "image": "",
-        "players": [
-            {
-                "name": "42gg",
-                "progress": "100%"
-            }
-        ]
-    },
-    {
-        "name": "Fixicle but better",
-        "creator": "Qiwi",
-        "id": "29",
-        "image": "",
-        "players": [
-            {
-                "name": "42gg",
-                "progress": "100%"
-            }
-        ]
-    },
-    {
-        "name": "brkcr",
-        "creator": "craw",
-        "id": "14",
-        "image": "",
-        "players": [
-            {
-                "name": "42gg",
-                "progress": "100%"
-            }
-        ]
-    },
-    {
-        "name": "FR3SH M32T",
-        "creator": "craw",
-        "id": "5",
-        "image": "",
-        "players": [
-            {
-                "name": "craw",
-                "progress": "100%"
-            }
-        ]
-    },
-    {
-        "name": "phonk mango",
-        "creator": "123",
-        "id": "4",
-        "image": "",
-        "players": [
-            {
-                "name": "123",
-                "progress": "100%"
-            },
-            {
-                "name": "42gg",
-                "progress": "100%"
-            },
-            {
-                "name": "craw",
-                "progress": "100%"
-            }
-        ]
-    }
+  {
+    "name": "cgtrc buff top 1",
+    "creator": "craw (buff by 42gg)",
+    "id": 38,
+    "image": "images/67TUFTUF.png",
+    "players": [
+      { "name": "42gg", "progress": "100%" }
+    ]
+  },
+  {
+    "name": "what",
+    "creator": "42gg",
+    "id": 34,
+    "image": "images/what.png",
+    "players": [
+      { "name": "42gg", "progress": "100%" }
+    ]
+  },
+  {
+    "name": "Sustainable",
+    "creator": "42gg",
+    "id": 24,
+    "image": "images/1.png",
+    "players": [
+      { "name": "42gg", "progress": "100%" }
+    ]
+  },
+  {
+    "name": "Fixicle but better",
+    "creator": "Qiwi",
+    "id": 29,
+    "image": "images/5.png",
+    "players": [
+      { "name": "42gg", "progress": "100%" }
+    ]
+  },
+  {
+    "name": "brkcr",
+    "creator": "craw",
+    "id": 14,
+    "image": "images/4.png",
+    "players": [
+      { "name": "42gg", "progress": "100%" }
+    ]
+  },
+  {
+    "name": "FR3SH M32T",
+    "creator": "craw",
+    "id": 5,
+    "image": "images/2.png",
+    "players": [
+      { "name": "craw", "progress": "100%" }
+    ]
+  },
+  {
+    "name": "phonk mango",
+    "creator": "123",
+    "id": 4,
+    "image": "images/3.png",
+    "players": [
+      { "name": "123", "progress": "100%" },
+      { "name": "42gg", "progress": "100%" },
+      { "name": "craw", "progress": "100%" }
+    ]
+  }
 ]
