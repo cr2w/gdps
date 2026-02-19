@@ -1,21 +1,16 @@
 [
     {
-        "name": "cgtrc buff top 1",
-        "creator": "craw (buff by 42gg)",
-        "id": "38",
-        "image": "67TUFTUF.png",
-        "players": [
-            {
-                "name": "42gg",
-                "progress": "100%"
-            }
-        ]
+        "name": "new level",
+        "creator": "unknown",
+        "id": "1771537031267",
+        "image": "",
+        "players": []
     },
     {
         "name": "what",
         "creator": "42gg",
         "id": "34",
-        "image": "what.png",
+        "image": "demonlist/images/what.png",
         "players": [
             {
                 "name": "42gg",
@@ -27,7 +22,19 @@
         "name": "Sustainable",
         "creator": "42gg",
         "id": "24",
-        "image": "1.png",
+        "image": "demonlist/images/1.png",
+        "players": [
+            {
+                "name": "42gg",
+                "progress": "100%"
+            }
+        ]
+    },
+    {
+        "name": "cgtrc buff top 1",
+        "creator": "craw (buff by 42gg)",
+        "id": "38",
+        "image": "demonlist/images/67TUFTUF.png",
         "players": [
             {
                 "name": "42gg",
@@ -39,7 +46,7 @@
         "name": "iHaHiMS",
         "creator": "craw",
         "id": "44",
-        "image": "iHaHiMS.png",
+        "image": "demonlist/images/iHaHiMS.png",
         "players": [
             {
                 "name": "42gg",
@@ -51,7 +58,7 @@
         "name": "Fixicle but better",
         "creator": "Qiwi",
         "id": "29",
-        "image": "5.png",
+        "image": "demonlist/images/5.png",
         "players": [
             {
                 "name": "42gg",
@@ -63,7 +70,7 @@
         "name": "brkcr",
         "creator": "craw",
         "id": "14",
-        "image": "4.png",
+        "image": "demonlist/images/4.png",
         "players": [
             {
                 "name": "42gg",
@@ -75,7 +82,7 @@
         "name": "FR3SH M32T",
         "creator": "craw",
         "id": "5",
-        "image": "2.png",
+        "image": "demonlist/images/2.png",
         "players": [
             {
                 "name": "craw",
@@ -87,18 +94,18 @@
         "name": "phonk mango",
         "creator": "123",
         "id": "4",
-        "image": "3.png",
+        "image": "demonlist/images/3.png",
         "players": [
-            {
-                "name": "42gg",
-                "progress": "100%"
-            },
             {
                 "name": "craw",
                 "progress": "100%"
             },
             {
                 "name": "123",
+                "progress": "100%"
+            },
+            {
+                "name": "42gg",
                 "progress": "100%"
             }
         ]
