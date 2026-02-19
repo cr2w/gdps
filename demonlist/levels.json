@@ -102,15 +102,15 @@
         "image": "demonlist/images/3.png",
         "players": [
             {
-                "name": "123",
-                "progress": "100%"
-            },
-            {
                 "name": "42gg",
                 "progress": "100%"
             },
             {
                 "name": "craw",
+                "progress": "100%"
+            },
+            {
+                "name": "123",
                 "progress": "100%"
             }
         ]
